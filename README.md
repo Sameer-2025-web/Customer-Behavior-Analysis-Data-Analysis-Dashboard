@@ -55,6 +55,4 @@ This project showcases my practical skills in data analysis and business intelli
 
 ##  Dashboard Screenshot
 
-
-
-https://github.com/Sameer-2025-web/Customer-Behavior-Analysis-Data-Analysis-Dashboard/blob/main/Screenshot%20of%20Customer%20Behavior%20Analysis.png
+![Dashboard Overview](https://github.com/Sameer-2025-web/Customer-Behavior-Analysis-Data-Analysis-Dashboard/blob/main/Screenshot%20of%20Customer%20Behavior%20Analysis.png)
