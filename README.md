@@ -2,13 +2,13 @@
 
 
 
-## Objective
+## *Objective*
 The objective of this project was to perform an end-to-end data analytics workflow using Python, SQL, and Power BI.  
 I aimed to demonstrate my ability to collect, clean, analyze, and visualize data while generating meaningful business insights.
 
 ---
 
-## Project Overview
+## *Project Overview*
 In this project, I worked with a real-world dataset and followed a structured data analytics process.  
 I used SQL for data querying and transformation, Python for data cleaning and exploratory data analysis (EDA), and Power BI to build an interactive dashboard for visualization and storytelling.
 
@@ -16,7 +16,7 @@ This project showcases my practical skills in data analysis and business intelli
 
 ---
 
-##  Steps Followed
+##  *Steps Followed*
 
 1. *Data Collection*
    - Imported the dataset into my working environment.
@@ -43,7 +43,7 @@ This project showcases my practical skills in data analysis and business intelli
 
 ---
 
-##  Key Features
+##  *Key Features*
 - End-to-end data analytics workflow
 - SQL-based data transformation
 - Python-based data cleaning and analysis
